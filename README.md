@@ -10,9 +10,9 @@ Jenis STB yang digunakan yaitu ada 2:
 *- SDCARD Minimum 8gb*
 *- TOOLS Disk Imager/Burner*
 Pilih salah satu sesuai selera
-1. Rufus https://rufus.ie/
-2. Balena Etcher https://www.balena.io/etcher/
-3. Win32 Disk Imager https://sourceforge.net/projects/win32diskimager/
+1. [Rufus](https://rufus.ie/)
+2. [Balena Etcher](https://www.balena.io/etcher/)
+3. [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/)
 
 **PENTING**
 Kondisi HARUS sudah UNLOCKED / ROOTED yg belum root bisa ikuti tutorial : https://youtu.be/dnAN5N1yotg
